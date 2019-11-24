@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Xinzel1/XinzeLi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-I am a second year PhD student at the University of Chicago.
+I am a first year PhD student at the University of Chicago.
 
 ### Education
 
