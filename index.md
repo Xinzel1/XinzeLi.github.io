@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## About
 
 You can use the [editor on GitHub](https://github.com/Xinzel1/XinzeLi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second year PhD student at the University of Chicago.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- PhD Student, Computational and Applied Mathematics, University of Chicago, ‘24
+- BS Mathematics, University of Chinese Academy of Sciences, Beijing ‘19
 
 ```markdown
 Syntax highlighted code block
